@@ -1,0 +1,10 @@
+# App + CRM API
+requests>=2.31,<3
+streamlit>=1.35,<2
+
+# Scraper dependencies (remove any unused libraries after checking scraper.py)
+beautifulsoup4>=4.12,<5
+rapidfuzz>=3.0,<4
+
+# Automated tests
+pytest>=8,<10

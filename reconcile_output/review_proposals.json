@@ -1,0 +1,1056 @@
+[
+  {
+    "proposal_key": "website:oh:findlay:1800 n blanchard st:C_REPARENT_EXISTING",
+    "source": "website",
+    "category": "C_REPARENT_EXISTING",
+    "facility": "Bellhaven Meadows of Findlay",
+    "account_id": "001UKEFGADQ8YCZ4YM",
+    "operation": "UPDATE",
+    "changes": [
+      {
+        "field": "parent_id",
+        "from": "",
+        "to": "0015QAPLGS3FVYEEEM"
+      },
+      {
+        "field": "phone",
+        "from": "(330) 975-2492",
+        "to": "(231) 533-2969"
+      }
+    ],
+    "create_payload": null,
+    "evidence": {
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-meadows-of-findlay",
+      "same_street": true,
+      "website_address": "1800 N Blanchard St",
+      "website_city": "Findlay",
+      "website_state": "OH",
+      "website_zip": "45840",
+      "matched_crm_address": "1800 N Blanchard St",
+      "matched_crm_name": "Bellhaven Meadows of Findlay",
+      "revenue": 22000.0,
+      "ar": 0.0
+    },
+    "review_flags": [
+      "Website has multiple care offerings; CRM care_type is single-valued; do not overwrite"
+    ],
+    "candidate_ids": [
+      "001UKEFGADQ8YCZ4YM"
+    ],
+    "approval_required": true
+  },
+  {
+    "proposal_key": "website:in:goshen:1610 college ave:B_MINOR_FIELD_UPDATE",
+    "source": "website",
+    "category": "B_MINOR_FIELD_UPDATE",
+    "facility": "Bellhaven of Goshen",
+    "account_id": "001JQER1RMYKNRLNME",
+    "operation": "UPDATE",
+    "changes": [
+      {
+        "field": "phone",
+        "from": "(517) 409-8156",
+        "to": "(330) 405-6040"
+      }
+    ],
+    "create_payload": null,
+    "evidence": {
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-goshen",
+      "same_street": true,
+      "website_address": "1610 College Ave",
+      "website_city": "Goshen",
+      "website_state": "IN",
+      "website_zip": "46526",
+      "matched_crm_address": "1610 College Avenue",
+      "matched_crm_name": "Bellhaven of Goshen",
+      "revenue": 121000.0,
+      "ar": 0.0
+    },
+    "review_flags": [],
+    "candidate_ids": [
+      "001JQER1RMYKNRLNME"
+    ],
+    "approval_required": true
+  },
+  {
+    "proposal_key": "website:oh:defiance:700 carpenter rd:B_MINOR_FIELD_UPDATE",
+    "source": "website",
+    "category": "B_MINOR_FIELD_UPDATE",
+    "facility": "Bellhaven of Defiance",
+    "account_id": "001R4PXTUD9R6FNN8V",
+    "operation": "UPDATE",
+    "changes": [
+      {
+        "field": "phone",
+        "from": "(231) 238-4862",
+        "to": "(330) 691-2711"
+      }
+    ],
+    "create_payload": null,
+    "evidence": {
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-defiance",
+      "same_street": true,
+      "website_address": "700 Carpenter Rd",
+      "website_city": "Defiance",
+      "website_state": "OH",
+      "website_zip": "43512",
+      "matched_crm_address": "700 Carpenter Road",
+      "matched_crm_name": "Bellhaven of Defiance",
+      "revenue": 66000.0,
+      "ar": 9500.0
+    },
+    "review_flags": [],
+    "candidate_ids": [
+      "001R4PXTUD9R6FNN8V"
+    ],
+    "approval_required": true
+  },
+  {
+    "proposal_key": "website:oh:marion:199 barks rd w:B_MINOR_FIELD_UPDATE",
+    "source": "website",
+    "category": "B_MINOR_FIELD_UPDATE",
+    "facility": "Bellhaven of Marion",
+    "account_id": "0015L38R1Z5947ZZP7",
+    "operation": "UPDATE",
+    "changes": [
+      {
+        "field": "phone",
+        "from": "(330) 314-3109",
+        "to": "(517) 847-7948"
+      }
+    ],
+    "create_payload": null,
+    "evidence": {
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-marion",
+      "same_street": true,
+      "website_address": "199 Barks Rd W",
+      "website_city": "Marion",
+      "website_state": "OH",
+      "website_zip": "43302",
+      "matched_crm_address": "199 Barks Road West",
+      "matched_crm_name": "Bellhaven of Marion",
+      "revenue": 87000.0,
+      "ar": 0.0
+    },
+    "review_flags": [],
+    "candidate_ids": [
+      "0015L38R1Z5947ZZP7"
+    ],
+    "approval_required": true
+  },
+  {
+    "proposal_key": "website:oh:grove city:3985 broadway:B_MINOR_FIELD_UPDATE",
+    "source": "website",
+    "category": "B_MINOR_FIELD_UPDATE",
+    "facility": "Bellhaven Rehabilitation & Nursing of Grove City",
+    "account_id": "001TZCSTBZFM6K5BGN",
+    "operation": "UPDATE",
+    "changes": [
+      {
+        "field": "name",
+        "from": "Bellhaven Rehab and Nursing of Grove City",
+        "to": "Bellhaven Rehabilitation & Nursing of Grove City"
+      }
+    ],
+    "create_payload": null,
+    "evidence": {
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-rehabilitation-nursing-of-grove-city",
+      "same_street": true,
+      "website_address": "3985 Broadway",
+      "website_city": "Grove City",
+      "website_state": "OH",
+      "website_zip": "43123",
+      "matched_crm_address": "3985 Broadway",
+      "matched_crm_name": "Bellhaven Rehab and Nursing of Grove City",
+      "revenue": 0.0,
+      "ar": 0.0
+    },
+    "review_flags": [],
+    "candidate_ids": [
+      "001TZCSTBZFM6K5BGN"
+    ],
+    "approval_required": true
+  },
+  {
+    "proposal_key": "website:oh:miamisburg:7420 sycamore ridge dr:B_MINOR_FIELD_UPDATE",
+    "source": "website",
+    "category": "B_MINOR_FIELD_UPDATE",
+    "facility": "Bellhaven at Sycamore Ridge",
+    "account_id": "00191H7JR16471SZ34",
+    "operation": "UPDATE",
+    "changes": [
+      {
+        "field": "name",
+        "from": "Bellhaven of Sycamore Ridge",
+        "to": "Bellhaven at Sycamore Ridge"
+      },
+      {
+        "field": "phone",
+        "from": "(419) 982-7764",
+        "to": "(260) 365-6510"
+      }
+    ],
+    "create_payload": null,
+    "evidence": {
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-at-sycamore-ridge",
+      "same_street": true,
+      "website_address": "7420 Sycamore Ridge Dr",
+      "website_city": "Miamisburg",
+      "website_state": "OH",
+      "website_zip": "45342",
+      "matched_crm_address": "7420 Sycamore Ridge Dr",
+      "matched_crm_name": "Bellhaven of Sycamore Ridge",
+      "revenue": 0.0,
+      "ar": 0.0
+    },
+    "review_flags": [],
+    "candidate_ids": [
+      "00191H7JR16471SZ34"
+    ],
+    "approval_required": true
+  },
+  {
+    "proposal_key": "website:oh:dayton:2210 salem ave:B_MINOR_FIELD_UPDATE",
+    "source": "website",
+    "category": "B_MINOR_FIELD_UPDATE",
+    "facility": "The Arbors at Bellhaven - Dayton",
+    "account_id": "0010KJFP601YNTZVDA",
+    "operation": "UPDATE",
+    "changes": [
+      {
+        "field": "name",
+        "from": "Arbors at Bellhaven Dayton",
+        "to": "The Arbors at Bellhaven - Dayton"
+      },
+      {
+        "field": "phone",
+        "from": "(216) 659-9837",
+        "to": "(260) 254-7592"
+      }
+    ],
+    "create_payload": null,
+    "evidence": {
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/the-arbors-at-bellhaven-dayton",
+      "same_street": true,
+      "website_address": "2210 Salem Ave",
+      "website_city": "Dayton",
+      "website_state": "OH",
+      "website_zip": "45406",
+      "matched_crm_address": "2210 Salem Ave",
+      "matched_crm_name": "Arbors at Bellhaven Dayton",
+      "revenue": 0.0,
+      "ar": 0.0
+    },
+    "review_flags": [],
+    "candidate_ids": [
+      "0010KJFP601YNTZVDA"
+    ],
+    "approval_required": true
+  },
+  {
+    "proposal_key": "website:oh:ashland:1631 claremont ave:B_MINOR_FIELD_UPDATE",
+    "source": "website",
+    "category": "B_MINOR_FIELD_UPDATE",
+    "facility": "Bellhaven Healthcare Centre of Ashland",
+    "account_id": "001RJ0D7Z5MAZN5HX5",
+    "operation": "UPDATE",
+    "changes": [
+      {
+        "field": "name",
+        "from": "Bellhaven Health Care Center of Ashland",
+        "to": "Bellhaven Healthcare Centre of Ashland"
+      },
+      {
+        "field": "phone",
+        "from": "(734) 319-7813",
+        "to": "(517) 314-5115"
+      }
+    ],
+    "create_payload": null,
+    "evidence": {
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-healthcare-centre-of-ashland",
+      "same_street": true,
+      "website_address": "1631 Claremont Ave",
+      "website_city": "Ashland",
+      "website_state": "OH",
+      "website_zip": "44805",
+      "matched_crm_address": "1631 Claremont Ave",
+      "matched_crm_name": "Bellhaven Health Care Center of Ashland",
+      "revenue": 0.0,
+      "ar": 0.0
+    },
+    "review_flags": [],
+    "candidate_ids": [
+      "001RJ0D7Z5MAZN5HX5"
+    ],
+    "approval_required": true
+  },
+  {
+    "proposal_key": "website:oh:port clinton:1420 harbor point dr:B_MINOR_FIELD_UPDATE",
+    "source": "website",
+    "category": "B_MINOR_FIELD_UPDATE",
+    "facility": "Bellhaven of Port Clinton",
+    "account_id": "001UELXDAKFRKB8932",
+    "operation": "UPDATE",
+    "changes": [
+      {
+        "field": "phone",
+        "from": "(614) 512-8712",
+        "to": "(330) 733-6423"
+      }
+    ],
+    "create_payload": null,
+    "evidence": {
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-port-clinton",
+      "same_street": true,
+      "website_address": "1420 Harbor Point Dr",
+      "website_city": "Port Clinton",
+      "website_state": "OH",
+      "website_zip": "43452",
+      "matched_crm_address": "1420 Harbor Point Dr",
+      "matched_crm_name": "Bellhaven of Port Clinton",
+      "revenue": 0.0,
+      "ar": 0.0
+    },
+    "review_flags": [
+      "2 geographically plausible CRM candidates; review survivor and other accounts"
+    ],
+    "candidate_ids": [
+      "001UELXDAKFRKB8932",
+      "001JD2MWRA74LTSN24"
+    ],
+    "approval_required": true
+  },
+  {
+    "proposal_key": "website:pa:erie:4930 w lake rd:B_MINOR_FIELD_UPDATE",
+    "source": "website",
+    "category": "B_MINOR_FIELD_UPDATE",
+    "facility": "Bellhaven Shores of Erie",
+    "account_id": "001CVBBCSDM7YHN220",
+    "operation": "UPDATE",
+    "changes": [
+      {
+        "field": "phone",
+        "from": "(419) 495-1741",
+        "to": "(614) 792-9343"
+      }
+    ],
+    "create_payload": null,
+    "evidence": {
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-shores-of-erie",
+      "same_street": true,
+      "website_address": "4930 W Lake Rd",
+      "website_city": "Erie",
+      "website_state": "PA",
+      "website_zip": "16505",
+      "matched_crm_address": "4930 W Lake Rd",
+      "matched_crm_name": "Bellhaven Shores of Erie",
+      "revenue": 0.0,
+      "ar": 0.0
+    },
+    "review_flags": [
+      "2 geographically plausible CRM candidates; review survivor and other accounts",
+      "Website has multiple care offerings; CRM care_type is single-valued; do not overwrite"
+    ],
+    "candidate_ids": [
+      "001CVBBCSDM7YHN220",
+      "001BLYF02K97SZLZHH"
+    ],
+    "approval_required": true
+  },
+  {
+    "proposal_key": "website:oh:kettering:3313 wilmington pike:E_RENAME_OR_REPARENT",
+    "source": "website",
+    "category": "E_RENAME_OR_REPARENT",
+    "facility": "Bellhaven of Kettering",
+    "account_id": "001WR41PYNWXCAE2X4",
+    "operation": "UPDATE",
+    "changes": [
+      {
+        "field": "name",
+        "from": "Kettering Care Centre",
+        "to": "Bellhaven of Kettering"
+      },
+      {
+        "field": "parent_id",
+        "from": "001FJZYHR7MLFMNPLL",
+        "to": "0015QAPLGS3FVYEEEM"
+      },
+      {
+        "field": "phone",
+        "from": "(419) 600-2603",
+        "to": "(231) 269-5449"
+      }
+    ],
+    "create_payload": null,
+    "evidence": {
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-kettering",
+      "same_street": true,
+      "website_address": "3313 Wilmington Pike",
+      "website_city": "Kettering",
+      "website_state": "OH",
+      "website_zip": "45429",
+      "matched_crm_address": "3313 Wilmington Pike",
+      "matched_crm_name": "Kettering Care Centre",
+      "revenue": 0.0,
+      "ar": 0.0
+    },
+    "review_flags": [
+      "3 geographically plausible CRM candidates; review survivor and other accounts",
+      "Candidate selection is a review hint; inspect all competing records before approving"
+    ],
+    "candidate_ids": [
+      "001WR41PYNWXCAE2X4",
+      "001B7XZAA3AFALS9GP",
+      "0016KTS1UAWBRXS09J"
+    ],
+    "approval_required": true
+  },
+  {
+    "proposal_key": "website:mi:monroe:750 stewart rd:B_MINOR_FIELD_UPDATE",
+    "source": "website",
+    "category": "B_MINOR_FIELD_UPDATE",
+    "facility": "Bellhaven Gardens of Monroe",
+    "account_id": "001U1750VLVJAGG1S5",
+    "operation": "UPDATE",
+    "changes": [
+      {
+        "field": "phone",
+        "from": "(814) 291-2902",
+        "to": "(814) 412-2218"
+      }
+    ],
+    "create_payload": null,
+    "evidence": {
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-gardens-of-monroe",
+      "same_street": true,
+      "website_address": "750 Stewart Rd",
+      "website_city": "Monroe",
+      "website_state": "MI",
+      "website_zip": "48162",
+      "matched_crm_address": "750 Stewart Rd",
+      "matched_crm_name": "Bellhaven Gardens of Monroe",
+      "revenue": 0.0,
+      "ar": 0.0
+    },
+    "review_flags": [
+      "3 geographically plausible CRM candidates; review survivor and other accounts"
+    ],
+    "candidate_ids": [
+      "001U1750VLVJAGG1S5",
+      "0011AB44D05WLA9HTX",
+      "00159PL81N38KM4FHM"
+    ],
+    "approval_required": true
+  },
+  {
+    "proposal_key": "website:oh:tiffin:45 st lawrence dr:D_CHOW_CREATE_AND_LINK",
+    "source": "website",
+    "category": "D_CHOW_CREATE_AND_LINK",
+    "facility": "Bellhaven of Tiffin",
+    "account_id": "001U6RW32TY0WSXZZB",
+    "operation": "CHOW",
+    "changes": [
+      {
+        "field": "chow_current_account",
+        "from": "",
+        "to": "<NEW_ACCOUNT_ID_AFTER_CREATE>"
+      }
+    ],
+    "create_payload": {
+      "name": "Bellhaven of Tiffin",
+      "parent_id": "0015QAPLGS3FVYEEEM",
+      "billing_street": "45 St Lawrence Dr",
+      "billing_city": "Tiffin",
+      "billing_state": "OH",
+      "billing_zip": "44883",
+      "care_type": "Skilled Nursing",
+      "phone": "(260) 589-2589",
+      "status": "Active",
+      "note": ""
+    },
+    "evidence": {
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-tiffin",
+      "same_street": true,
+      "website_address": "45 St Lawrence Dr",
+      "website_city": "Tiffin",
+      "website_state": "OH",
+      "website_zip": "44883",
+      "matched_crm_address": "45 St Lawrence Dr",
+      "matched_crm_name": "Bellhaven of Tiffin",
+      "revenue": 84000.0,
+      "ar": 12400.0
+    },
+    "review_flags": [
+      "SOP: existing account has revenue history AND outstanding AR > 0; DO NOT update old parent or any old fields"
+    ],
+    "candidate_ids": [
+      "001U6RW32TY0WSXZZB"
+    ],
+    "approval_required": true
+  },
+  {
+    "proposal_key": "website:oh:marietta:805 colegate dr:D_CHOW_CREATE_AND_LINK",
+    "source": "website",
+    "category": "D_CHOW_CREATE_AND_LINK",
+    "facility": "Bellhaven of Marietta",
+    "account_id": "001A34WFSUYHCRBLFT",
+    "operation": "CHOW",
+    "changes": [
+      {
+        "field": "chow_current_account",
+        "from": "",
+        "to": "<NEW_ACCOUNT_ID_AFTER_CREATE>"
+      }
+    ],
+    "create_payload": {
+      "name": "Bellhaven of Marietta",
+      "parent_id": "0015QAPLGS3FVYEEEM",
+      "billing_street": "805 Colegate Dr",
+      "billing_city": "Marietta",
+      "billing_state": "OH",
+      "billing_zip": "45750",
+      "care_type": "Skilled Nursing",
+      "phone": "(614) 337-1967",
+      "status": "Active",
+      "note": ""
+    },
+    "evidence": {
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-marietta",
+      "same_street": true,
+      "website_address": "805 Colegate Dr",
+      "website_city": "Marietta",
+      "website_state": "OH",
+      "website_zip": "45750",
+      "matched_crm_address": "805 Colegate Drive",
+      "matched_crm_name": "Bellhaven of Marietta",
+      "revenue": 51250.0,
+      "ar": 3800.0
+    },
+    "review_flags": [
+      "SOP: existing account has revenue history AND outstanding AR > 0; DO NOT update old parent or any old fields"
+    ],
+    "candidate_ids": [
+      "001A34WFSUYHCRBLFT"
+    ],
+    "approval_required": true
+  },
+  {
+    "proposal_key": "website:oh:lima:3115 n cole st:C_REPARENT_EXISTING",
+    "source": "website",
+    "category": "C_REPARENT_EXISTING",
+    "facility": "Bellhaven Crossings of Lima",
+    "account_id": "001LGFPBJY4N9MB6KL",
+    "operation": "UPDATE",
+    "changes": [
+      {
+        "field": "parent_id",
+        "from": "001FJZYHR7MLFMNPLL",
+        "to": "0015QAPLGS3FVYEEEM"
+      },
+      {
+        "field": "phone",
+        "from": "(734) 872-9575",
+        "to": "(231) 539-3617"
+      }
+    ],
+    "create_payload": null,
+    "evidence": {
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-crossings-of-lima",
+      "same_street": true,
+      "website_address": "3115 N Cole St",
+      "website_city": "Lima",
+      "website_state": "OH",
+      "website_zip": "45801",
+      "matched_crm_address": "3115 N Cole St",
+      "matched_crm_name": "Bellhaven Crossings of Lima",
+      "revenue": 47000.0,
+      "ar": 0.0
+    },
+    "review_flags": [],
+    "candidate_ids": [
+      "001LGFPBJY4N9MB6KL"
+    ],
+    "approval_required": true
+  },
+  {
+    "proposal_key": "website:oh:zanesville:2680 maple ave:E_RENAME_OR_REPARENT",
+    "source": "website",
+    "category": "E_RENAME_OR_REPARENT",
+    "facility": "Bellhaven of Zanesville",
+    "account_id": "001H1JMVZWP46D5VUF",
+    "operation": "UPDATE",
+    "changes": [
+      {
+        "field": "name",
+        "from": "Cedar Trail of Zanesville",
+        "to": "Bellhaven of Zanesville"
+      },
+      {
+        "field": "parent_id",
+        "from": "001FWSQ30SFW6S7604",
+        "to": "0015QAPLGS3FVYEEEM"
+      },
+      {
+        "field": "phone",
+        "from": "(517) 817-8191",
+        "to": "(814) 599-2533"
+      }
+    ],
+    "create_payload": null,
+    "evidence": {
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-zanesville",
+      "same_street": true,
+      "website_address": "2680 Maple Ave",
+      "website_city": "Zanesville",
+      "website_state": "OH",
+      "website_zip": "43701",
+      "matched_crm_address": "2680 Maple Avenue",
+      "matched_crm_name": "Cedar Trail of Zanesville",
+      "revenue": 0.0,
+      "ar": 0.0
+    },
+    "review_flags": [],
+    "candidate_ids": [
+      "001H1JMVZWP46D5VUF"
+    ],
+    "approval_required": true
+  },
+  {
+    "proposal_key": "website:oh:chagrin falls:150 river st:E_RENAME_OR_REPARENT",
+    "source": "website",
+    "category": "E_RENAME_OR_REPARENT",
+    "facility": "Bellhaven of Chagrin Falls",
+    "account_id": "001RJU1X4NBWC1Q0G7",
+    "operation": "UPDATE",
+    "changes": [
+      {
+        "field": "name",
+        "from": "Riverbend Manor Care Center",
+        "to": "Bellhaven of Chagrin Falls"
+      },
+      {
+        "field": "phone",
+        "from": "(517) 457-9548",
+        "to": "(231) 283-7448"
+      }
+    ],
+    "create_payload": null,
+    "evidence": {
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-chagrin-falls",
+      "same_street": true,
+      "website_address": "150 River St",
+      "website_city": "Chagrin Falls",
+      "website_state": "OH",
+      "website_zip": "44022",
+      "matched_crm_address": "150 River St",
+      "matched_crm_name": "Riverbend Manor Care Center",
+      "revenue": 0.0,
+      "ar": 0.0
+    },
+    "review_flags": [],
+    "candidate_ids": [
+      "001RJU1X4NBWC1Q0G7"
+    ],
+    "approval_required": true
+  },
+  {
+    "proposal_key": "website:mi:portage:8060 willow creek ln:E_RENAME_OR_REPARENT",
+    "source": "website",
+    "category": "E_RENAME_OR_REPARENT",
+    "facility": "Bellhaven Willow Creek",
+    "account_id": "0017MN2JYAJBDS8WQZ",
+    "operation": "UPDATE",
+    "changes": [
+      {
+        "field": "name",
+        "from": "Sunny Acres Retirement Home",
+        "to": "Bellhaven Willow Creek"
+      },
+      {
+        "field": "phone",
+        "from": "(216) 898-7925",
+        "to": "(419) 394-5494"
+      }
+    ],
+    "create_payload": null,
+    "evidence": {
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-willow-creek",
+      "same_street": true,
+      "website_address": "8060 Willow Creek Ln",
+      "website_city": "Portage",
+      "website_state": "MI",
+      "website_zip": "49024",
+      "matched_crm_address": "8060 Willow Creek Lane",
+      "matched_crm_name": "Sunny Acres Retirement Home",
+      "revenue": 0.0,
+      "ar": 0.0
+    },
+    "review_flags": [],
+    "candidate_ids": [
+      "0017MN2JYAJBDS8WQZ"
+    ],
+    "approval_required": true
+  },
+  {
+    "proposal_key": "website:oh:ashtabula:3156 w prospect rd:B_MINOR_FIELD_UPDATE",
+    "source": "website",
+    "category": "B_MINOR_FIELD_UPDATE",
+    "facility": "Bellhaven of Ashtabula",
+    "account_id": "001NXP9X46CWEPSLSV",
+    "operation": "UPDATE",
+    "changes": [
+      {
+        "field": "note",
+        "from": "",
+        "to": "Website physical address: 3156 W Prospect Rd, Ashtabula, OH 44004. Verify whether CRM billing_street should change."
+      }
+    ],
+    "create_payload": null,
+    "evidence": {
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-ashtabula",
+      "same_street": false,
+      "website_address": "3156 W Prospect Rd",
+      "website_city": "Ashtabula",
+      "website_state": "OH",
+      "website_zip": "44004",
+      "matched_crm_address": "PO Box 517",
+      "matched_crm_name": "Bellhaven of Ashtabula",
+      "revenue": 0.0,
+      "ar": 0.0
+    },
+    "review_flags": [
+      "CRM billing_street is a PO Box; preserve until billing vs physical address is verified"
+    ],
+    "candidate_ids": [
+      "001NXP9X46CWEPSLSV"
+    ],
+    "approval_required": true
+  },
+  {
+    "proposal_key": "website:oh:portsmouth:2222 gallia st:B_MINOR_FIELD_UPDATE",
+    "source": "website",
+    "category": "B_MINOR_FIELD_UPDATE",
+    "facility": "Bellhaven of Portsmouth",
+    "account_id": "001CF3LDWVRGL09P4F",
+    "operation": "UPDATE",
+    "changes": [
+      {
+        "field": "billing_zip",
+        "from": "45626",
+        "to": "45662"
+      }
+    ],
+    "create_payload": null,
+    "evidence": {
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-portsmouth",
+      "same_street": true,
+      "website_address": "2222 Gallia St",
+      "website_city": "Portsmouth",
+      "website_state": "OH",
+      "website_zip": "45662",
+      "matched_crm_address": "2222 Gallia St",
+      "matched_crm_name": "Bellhaven of Portsmouth",
+      "revenue": 0.0,
+      "ar": 0.0
+    },
+    "review_flags": [],
+    "candidate_ids": [
+      "001CF3LDWVRGL09P4F"
+    ],
+    "approval_required": true
+  },
+  {
+    "proposal_key": "website:oh:batavia:2000 hospital dr:F_CREATE_NEW",
+    "source": "website",
+    "category": "F_CREATE_NEW",
+    "facility": "Bellhaven of Batavia",
+    "account_id": null,
+    "operation": "CREATE",
+    "changes": [],
+    "create_payload": {
+      "name": "Bellhaven of Batavia",
+      "parent_id": "0015QAPLGS3FVYEEEM",
+      "billing_street": "2000 Hospital Dr",
+      "billing_city": "Batavia",
+      "billing_state": "OH",
+      "billing_zip": "45103",
+      "care_type": "Skilled Nursing",
+      "phone": "(231) 698-3092",
+      "status": "Active",
+      "note": ""
+    },
+    "evidence": {
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-batavia",
+      "same_street": false,
+      "website_address": "2000 Hospital Dr",
+      "website_city": "Batavia",
+      "website_state": "OH",
+      "website_zip": "45103",
+      "matched_crm_address": null,
+      "matched_crm_name": null,
+      "revenue": null,
+      "ar": null
+    },
+    "review_flags": [
+      "No eligible same-address or same-name+city/state CRM match"
+    ],
+    "candidate_ids": [],
+    "approval_required": true
+  },
+  {
+    "proposal_key": "website:oh:new albany:118 union square dr:F_CREATE_NEW",
+    "source": "website",
+    "category": "F_CREATE_NEW",
+    "facility": "Bellhaven at Union Square",
+    "account_id": null,
+    "operation": "CREATE",
+    "changes": [],
+    "create_payload": {
+      "name": "Bellhaven at Union Square",
+      "parent_id": "0015QAPLGS3FVYEEEM",
+      "billing_street": "118 Union Square Dr",
+      "billing_city": "New Albany",
+      "billing_state": "OH",
+      "billing_zip": "43054",
+      "care_type": "Assisted Living",
+      "phone": "(330) 519-9639",
+      "status": "Active",
+      "note": ""
+    },
+    "evidence": {
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-at-union-square",
+      "same_street": false,
+      "website_address": "118 Union Square Dr",
+      "website_city": "New Albany",
+      "website_state": "OH",
+      "website_zip": "43054",
+      "matched_crm_address": null,
+      "matched_crm_name": null,
+      "revenue": null,
+      "ar": null
+    },
+    "review_flags": [
+      "No eligible same-address or same-name+city/state CRM match"
+    ],
+    "candidate_ids": [],
+    "approval_required": true
+  },
+  {
+    "proposal_key": "website:pa:carlisle:640 walnut bottom rd:F_CREATE_NEW",
+    "source": "website",
+    "category": "F_CREATE_NEW",
+    "facility": "Bellhaven of Carlisle",
+    "account_id": null,
+    "operation": "CREATE",
+    "changes": [],
+    "create_payload": {
+      "name": "Bellhaven of Carlisle",
+      "parent_id": "0015QAPLGS3FVYEEEM",
+      "billing_street": "640 Walnut Bottom Rd",
+      "billing_city": "Carlisle",
+      "billing_state": "PA",
+      "billing_zip": "17015",
+      "care_type": "Skilled Nursing",
+      "phone": "(260) 386-7765",
+      "status": "Active",
+      "note": ""
+    },
+    "evidence": {
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-carlisle",
+      "same_street": false,
+      "website_address": "640 Walnut Bottom Rd",
+      "website_city": "Carlisle",
+      "website_state": "PA",
+      "website_zip": "17015",
+      "matched_crm_address": null,
+      "matched_crm_name": null,
+      "revenue": null,
+      "ar": null
+    },
+    "review_flags": [
+      "No eligible same-address or same-name+city/state CRM match"
+    ],
+    "candidate_ids": [],
+    "approval_required": true
+  },
+  {
+    "proposal_key": "website:oh:hudson:4390 darrow rd:F_CREATE_NEW",
+    "source": "website",
+    "category": "F_CREATE_NEW",
+    "facility": "Amberly Manor",
+    "account_id": null,
+    "operation": "CREATE",
+    "changes": [],
+    "create_payload": {
+      "name": "Amberly Manor",
+      "parent_id": "0015QAPLGS3FVYEEEM",
+      "billing_street": "4390 Darrow Rd",
+      "billing_city": "Hudson",
+      "billing_state": "OH",
+      "billing_zip": "44236",
+      "care_type": "Assisted Living",
+      "phone": "(330) 228-4392",
+      "status": "Active",
+      "note": ""
+    },
+    "evidence": {
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/amberly-manor",
+      "same_street": false,
+      "website_address": "4390 Darrow Rd",
+      "website_city": "Hudson",
+      "website_state": "OH",
+      "website_zip": "44236",
+      "matched_crm_address": null,
+      "matched_crm_name": null,
+      "revenue": null,
+      "ar": null
+    },
+    "review_flags": [
+      "No eligible same-address or same-name+city/state CRM match"
+    ],
+    "candidate_ids": [],
+    "approval_required": true
+  },
+  {
+    "proposal_key": "website:in:chesterton:1250 nw franklin st:E_RENAME_OR_REPARENT",
+    "source": "website",
+    "category": "E_RENAME_OR_REPARENT",
+    "facility": "Bellhaven of Chesterton",
+    "account_id": "0013NUZQHQUEZ8DXEG",
+    "operation": "UPDATE",
+    "changes": [
+      {
+        "field": "name",
+        "from": "Chesterton Senior Commons",
+        "to": "Bellhaven of Chesterton"
+      }
+    ],
+    "create_payload": null,
+    "evidence": {
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-chesterton",
+      "same_street": true,
+      "website_address": "1250 NW Franklin Street",
+      "website_city": "Chesterton",
+      "website_state": "IN",
+      "website_zip": "46304",
+      "matched_crm_address": "1250 Northwest Franklin St",
+      "matched_crm_name": "Chesterton Senior Commons",
+      "revenue": 0.0,
+      "ar": 0.0
+    },
+    "review_flags": [],
+    "candidate_ids": [
+      "0013NUZQHQUEZ8DXEG"
+    ],
+    "approval_required": true
+  },
+  {
+    "proposal_key": "crm:00116ETS45BL7DTQP7:NOT_ON_CURRENT_WEBSITE",
+    "source": "crm_cleanup",
+    "category": "NOT_ON_CURRENT_WEBSITE",
+    "account_id": "00116ETS45BL7DTQP7",
+    "facility": "Bellhaven Care Center of Alliance",
+    "operation": "MARK_NEEDS_REVIEW",
+    "changes": [
+      {
+        "field": "status",
+        "from": "Active",
+        "to": "Needs Review"
+      },
+      {
+        "field": "note",
+        "from": "",
+        "to": "Not on current Bellhaven website roster; verify closure, divestiture, or rename before changing parent/status. Revenue=0; outstanding AR=0."
+      }
+    ],
+    "create_payload": null,
+    "evidence": {
+      "reason": "Account is linked to Bellhaven but no matching facility found on the current website",
+      "revenue": 0.0,
+      "ar": 0.0
+    },
+    "approval_required": true
+  },
+  {
+    "proposal_key": "crm:0016PVXH4B25HWR7QE:NOT_ON_CURRENT_WEBSITE",
+    "source": "crm_cleanup",
+    "category": "NOT_ON_CURRENT_WEBSITE",
+    "account_id": "0016PVXH4B25HWR7QE",
+    "facility": "Bellhaven of Coldwater",
+    "operation": "MARK_NEEDS_REVIEW",
+    "changes": [
+      {
+        "field": "status",
+        "from": "Active",
+        "to": "Needs Review"
+      },
+      {
+        "field": "note",
+        "from": "",
+        "to": "Not on current Bellhaven website roster; verify closure, divestiture, or rename before changing parent/status. Revenue=0; outstanding AR=0."
+      }
+    ],
+    "create_payload": null,
+    "evidence": {
+      "reason": "Account is linked to Bellhaven but no matching facility found on the current website",
+      "revenue": 0.0,
+      "ar": 0.0
+    },
+    "approval_required": true
+  },
+  {
+    "proposal_key": "crm:001QU150PM4Z15UA71:DUPLICATE_CONFIDENT",
+    "source": "crm_cleanup",
+    "category": "DUPLICATE_CONFIDENT",
+    "account_id": "001QU150PM4Z15UA71",
+    "facility": "Bellhaven of Owosso",
+    "operation": "MARK_INACTIVE_DUPLICATE",
+    "changes": [
+      {
+        "field": "status",
+        "from": "Active",
+        "to": "Inactive"
+      },
+      {
+        "field": "duplicate_of_account",
+        "from": "",
+        "to": "001EGU7BMJ942ZTRE6"
+      }
+    ],
+    "create_payload": null,
+    "evidence": {
+      "reason": "Same physical address as website facility Bellhaven of Owosso; proposed survivor=001EGU7BMJ942ZTRE6; preserve ownership/billing history until verified",
+      "revenue": 0.0,
+      "ar": 0.0
+    },
+    "approval_required": true
+  },
+  {
+    "proposal_key": "crm:001SXSF4ELF0Z2LGDM:NOT_ON_CURRENT_WEBSITE",
+    "source": "crm_cleanup",
+    "category": "NOT_ON_CURRENT_WEBSITE",
+    "account_id": "001SXSF4ELF0Z2LGDM",
+    "facility": "Bellhaven of Sandusky",
+    "operation": "MARK_NEEDS_REVIEW",
+    "changes": [
+      {
+        "field": "status",
+        "from": "Active",
+        "to": "Needs Review"
+      },
+      {
+        "field": "note",
+        "from": "",
+        "to": "Not on current Bellhaven website roster; verify closure, divestiture, or rename before changing parent/status. Revenue=130000; outstanding AR=5200."
+      }
+    ],
+    "create_payload": null,
+    "evidence": {
+      "reason": "Account is linked to Bellhaven but no matching facility found on the current website",
+      "revenue": 130000.0,
+      "ar": 5200.0
+    },
+    "approval_required": true
+  }
+]

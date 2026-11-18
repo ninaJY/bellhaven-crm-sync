@@ -1,0 +1,21 @@
+{
+  "website_facility_count": 35,
+  "crm_record_count": 121,
+  "classified_website_facility_count": 35,
+  "categories": {
+    "A_MATCH_NO_CHANGE": 10,
+    "B_MINOR_FIELD_UPDATE": 12,
+    "C_REPARENT_EXISTING": 2,
+    "D_CHOW_CREATE_AND_LINK": 2,
+    "E_RENAME_OR_REPARENT": 5,
+    "F_CREATE_NEW": 4
+  },
+  "crm_cleanup_categories": {
+    "CROSS_PARENT_OR_AMBIGUOUS_SAME_ADDRESS": 6,
+    "DUPLICATE_CONFIDENT": 1,
+    "NOT_ON_CURRENT_WEBSITE": 3
+  },
+  "crm_cleanup_total": 10,
+  "proposals_with_potential_changes": 29,
+  "write_back_performed": false
+}

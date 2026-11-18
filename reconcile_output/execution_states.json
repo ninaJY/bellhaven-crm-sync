@@ -1,0 +1,219 @@
+{
+  "website:oh:findlay:1800 n blanchard st:C_REPARENT_EXISTING": {
+    "signature": "993cc96c5014e9597df418932f3939c1c34b1f91de16b32abc93a73bca669025",
+    "status": "applied",
+    "updated_at": "2026-11-17T22:31:34.985070+00:00",
+    "facility": "Bellhaven Meadows of Findlay",
+    "operation": "UPDATE",
+    "account_id": "001UKEFGADQ8YCZ4YM"
+  },
+  "website:in:goshen:1610 college ave:B_MINOR_FIELD_UPDATE": {
+    "signature": "bc0e88a660c3d9660fa2133f19bc304efc226eaf837262eac5ced26a3083dceb",
+    "status": "applied",
+    "updated_at": "2026-11-17T22:31:35.161061+00:00",
+    "facility": "Bellhaven of Goshen",
+    "operation": "UPDATE",
+    "account_id": "001JQER1RMYKNRLNME"
+  },
+  "website:oh:defiance:700 carpenter rd:B_MINOR_FIELD_UPDATE": {
+    "signature": "ddb395964226cc4a6833aa5ec9edf177d39266665780d597cf5b29c572f5cf54",
+    "status": "applied",
+    "updated_at": "2026-11-17T22:31:35.278448+00:00",
+    "facility": "Bellhaven of Defiance",
+    "operation": "UPDATE",
+    "account_id": "001R4PXTUD9R6FNN8V"
+  },
+  "website:oh:marion:199 barks rd w:B_MINOR_FIELD_UPDATE": {
+    "signature": "706587bfb584584d03fc2f6d0fbe058bfa702d4cc8c42e01b1a3775dbfd74b73",
+    "status": "applied",
+    "updated_at": "2026-11-17T22:31:35.488906+00:00",
+    "facility": "Bellhaven of Marion",
+    "operation": "UPDATE",
+    "account_id": "0015L38R1Z5947ZZP7"
+  },
+  "website:oh:grove city:3985 broadway:B_MINOR_FIELD_UPDATE": {
+    "signature": "5ef657d146fd36e2e8883b471e822f1c37b0dbf49d62c6e56e4b9e795a4f4286",
+    "status": "applied",
+    "updated_at": "2026-11-17T22:31:35.653454+00:00",
+    "facility": "Bellhaven Rehabilitation & Nursing of Grove City",
+    "operation": "UPDATE",
+    "account_id": "001TZCSTBZFM6K5BGN"
+  },
+  "website:oh:miamisburg:7420 sycamore ridge dr:B_MINOR_FIELD_UPDATE": {
+    "signature": "019935bb78fc0631babe22a5183cceb79a5703401b7bea7efc1f01dfa9da4429",
+    "status": "applied",
+    "updated_at": "2026-11-17T22:31:35.745840+00:00",
+    "facility": "Bellhaven at Sycamore Ridge",
+    "operation": "UPDATE",
+    "account_id": "00191H7JR16471SZ34"
+  },
+  "website:oh:dayton:2210 salem ave:B_MINOR_FIELD_UPDATE": {
+    "signature": "db168c0c55f643bd60ced0b03084275e91df32bedd52e3b26fd8ee8be442cf26",
+    "status": "applied",
+    "updated_at": "2026-11-17T22:31:35.921119+00:00",
+    "facility": "The Arbors at Bellhaven - Dayton",
+    "operation": "UPDATE",
+    "account_id": "0010KJFP601YNTZVDA"
+  },
+  "website:oh:ashland:1631 claremont ave:B_MINOR_FIELD_UPDATE": {
+    "signature": "10012ec14ff98a51a9f673220c72846bd939c38a8de0a69150cb78dd27d65af9",
+    "status": "applied",
+    "updated_at": "2026-11-17T22:31:36.058438+00:00",
+    "facility": "Bellhaven Healthcare Centre of Ashland",
+    "operation": "UPDATE",
+    "account_id": "001RJ0D7Z5MAZN5HX5"
+  },
+  "website:oh:port clinton:1420 harbor point dr:B_MINOR_FIELD_UPDATE": {
+    "signature": "be1c4ee941520394c44ab1ffa4164e0c9dca13671bdfee8ae253f6f74365d32d",
+    "status": "applied",
+    "updated_at": "2026-11-17T22:31:36.217892+00:00",
+    "facility": "Bellhaven of Port Clinton",
+    "operation": "UPDATE",
+    "account_id": "001UELXDAKFRKB8932"
+  },
+  "website:pa:erie:4930 w lake rd:B_MINOR_FIELD_UPDATE": {
+    "signature": "d4c748fcef1438abbdcae2b2e60e8ff5168310bb578a107ca9f5a59f4d048fcf",
+    "status": "applied",
+    "updated_at": "2026-11-17T22:31:36.457083+00:00",
+    "facility": "Bellhaven Shores of Erie",
+    "operation": "UPDATE",
+    "account_id": "001CVBBCSDM7YHN220"
+  },
+  "website:oh:kettering:3313 wilmington pike:E_RENAME_OR_REPARENT": {
+    "signature": "5acfb70ccf4c8270e9cd0ad60e9798cb9de384ee84b13c7f3ace52d7d6a0883b",
+    "status": "applied",
+    "updated_at": "2026-11-17T22:31:36.645687+00:00",
+    "facility": "Bellhaven of Kettering",
+    "operation": "UPDATE",
+    "account_id": "001WR41PYNWXCAE2X4"
+  },
+  "website:mi:monroe:750 stewart rd:B_MINOR_FIELD_UPDATE": {
+    "signature": "95561bb55555872c24fcf0f2dc67da2bcd58e53de57bfe0e3a9f6a5bd5f66403",
+    "status": "applied",
+    "updated_at": "2026-11-17T22:31:36.795357+00:00",
+    "facility": "Bellhaven Gardens of Monroe",
+    "operation": "UPDATE",
+    "account_id": "001U1750VLVJAGG1S5"
+  },
+  "website:oh:lima:3115 n cole st:C_REPARENT_EXISTING": {
+    "signature": "4073f802b13ea36990f82e17082316cead061767c68841522dd4feb43acce437",
+    "status": "applied",
+    "updated_at": "2026-11-17T22:31:37.078949+00:00",
+    "facility": "Bellhaven Crossings of Lima",
+    "operation": "UPDATE",
+    "account_id": "001LGFPBJY4N9MB6KL"
+  },
+  "website:oh:zanesville:2680 maple ave:E_RENAME_OR_REPARENT": {
+    "signature": "dcc50942603a998230112edc7e05bfde016bc58844122e8bf5c2a1797ea550a1",
+    "status": "applied",
+    "updated_at": "2026-11-17T22:31:37.327998+00:00",
+    "facility": "Bellhaven of Zanesville",
+    "operation": "UPDATE",
+    "account_id": "001H1JMVZWP46D5VUF"
+  },
+  "website:oh:chagrin falls:150 river st:E_RENAME_OR_REPARENT": {
+    "signature": "51a4b327fb3b39a916497385610406848b529cd0ccb7ca6bc99524b0adc7e610",
+    "status": "applied",
+    "updated_at": "2026-11-17T22:31:37.480544+00:00",
+    "facility": "Bellhaven of Chagrin Falls",
+    "operation": "UPDATE",
+    "account_id": "001RJU1X4NBWC1Q0G7"
+  },
+  "website:mi:portage:8060 willow creek ln:E_RENAME_OR_REPARENT": {
+    "signature": "bbcd506762b4b2276bcda0e6eccc0d3497077a3bf82fd122d6fe2650e572d676",
+    "status": "applied",
+    "updated_at": "2026-11-17T22:31:37.619195+00:00",
+    "facility": "Bellhaven Willow Creek",
+    "operation": "UPDATE",
+    "account_id": "0017MN2JYAJBDS8WQZ"
+  },
+  "website:oh:ashtabula:3156 w prospect rd:B_MINOR_FIELD_UPDATE": {
+    "signature": "f92460ca2982a80672a753c0f6a5b944ca2ff7defbaf678837c54dca70739402",
+    "status": "applied",
+    "updated_at": "2026-11-17T22:31:37.793841+00:00",
+    "facility": "Bellhaven of Ashtabula",
+    "operation": "UPDATE",
+    "account_id": "001NXP9X46CWEPSLSV"
+  },
+  "website:oh:portsmouth:2222 gallia st:B_MINOR_FIELD_UPDATE": {
+    "signature": "558f79ba55b3977b6d8cf39543cefc6c5565de0990f0f44e561ea805f7fe100b",
+    "status": "applied",
+    "updated_at": "2026-11-17T22:31:37.931892+00:00",
+    "facility": "Bellhaven of Portsmouth",
+    "operation": "UPDATE",
+    "account_id": "001CF3LDWVRGL09P4F"
+  },
+  "website:oh:batavia:2000 hospital dr:F_CREATE_NEW": {
+    "signature": "cb6a81e904bcd5187e11c55cb9182b31a7e40576ae9e691683ec1a1520dff95f",
+    "status": "applied",
+    "updated_at": "2026-11-17T22:31:38.233477+00:00",
+    "facility": "Bellhaven of Batavia",
+    "operation": "CREATE",
+    "new_account_id": "001EF61F7AE44105F7"
+  },
+  "website:oh:new albany:118 union square dr:F_CREATE_NEW": {
+    "signature": "0df2672e90464bbe0cf788b3fe3cbc2915d14bdbf4bfea83b81fdffee5cf6b5b",
+    "status": "applied",
+    "updated_at": "2026-11-17T22:31:38.430714+00:00",
+    "facility": "Bellhaven at Union Square",
+    "operation": "CREATE",
+    "new_account_id": "00171024D1B538BF2E"
+  },
+  "website:pa:carlisle:640 walnut bottom rd:F_CREATE_NEW": {
+    "signature": "1ff76f53abc58ae5c6d5654050a237e462857895c21d52ce416a1978edc49142",
+    "status": "applied",
+    "updated_at": "2026-11-17T22:31:38.559641+00:00",
+    "facility": "Bellhaven of Carlisle",
+    "operation": "CREATE",
+    "new_account_id": "001CD057456AB7071B"
+  },
+  "website:oh:hudson:4390 darrow rd:F_CREATE_NEW": {
+    "signature": "d00208ef168472001f568789cb2a83ac23285267e9d847c34de82ee3e798328e",
+    "status": "applied",
+    "updated_at": "2026-11-17T22:31:38.739604+00:00",
+    "facility": "Amberly Manor",
+    "operation": "CREATE",
+    "new_account_id": "001E6AAD8D3C9768D4"
+  },
+  "website:in:chesterton:1250 nw franklin st:E_RENAME_OR_REPARENT": {
+    "signature": "66044d63b7d50e5b44cfc2f8c9f8c780bdfc96ff60a353b0c76ca03411da9bf0",
+    "status": "applied",
+    "updated_at": "2026-11-17T22:31:38.916741+00:00",
+    "facility": "Bellhaven of Chesterton",
+    "operation": "UPDATE",
+    "account_id": "0013NUZQHQUEZ8DXEG"
+  },
+  "crm:00116ETS45BL7DTQP7:NOT_ON_CURRENT_WEBSITE": {
+    "signature": "38292c9a27546afc33ddada6abc262cceda03e21e1274103e840cd8d4300dd36",
+    "status": "applied",
+    "updated_at": "2026-11-17T22:31:39.081961+00:00",
+    "facility": "Bellhaven Care Center of Alliance",
+    "operation": "MARK_NEEDS_REVIEW",
+    "account_id": "00116ETS45BL7DTQP7"
+  },
+  "crm:0016PVXH4B25HWR7QE:NOT_ON_CURRENT_WEBSITE": {
+    "signature": "52ddbe1fff587e745a26879040afac27f1545e31f37bd59f7845e9b2a4cf282b",
+    "status": "applied",
+    "updated_at": "2026-11-17T22:31:39.233463+00:00",
+    "facility": "Bellhaven of Coldwater",
+    "operation": "MARK_NEEDS_REVIEW",
+    "account_id": "0016PVXH4B25HWR7QE"
+  },
+  "crm:001SXSF4ELF0Z2LGDM:NOT_ON_CURRENT_WEBSITE": {
+    "signature": "770bfac25c9d32bf06a2c9b60972729602fac8ad29af48c2eb341c1362e627dd",
+    "status": "applied",
+    "updated_at": "2026-11-17T22:31:39.398241+00:00",
+    "facility": "Bellhaven of Sandusky",
+    "operation": "MARK_NEEDS_REVIEW",
+    "account_id": "001SXSF4ELF0Z2LGDM"
+  },
+  "website:oh:marietta:805 colegate dr:D_CHOW_CREATE_AND_LINK": {
+    "signature": "5706a67f491528d94663bf6772516cb0cc7e34b7ee16ab04a85f362b2b7ee628",
+    "status": "applied",
+    "updated_at": "2026-11-18T04:11:54.804210+00:00",
+    "facility": "Bellhaven of Marietta",
+    "operation": "CHOW",
+    "new_account_id": "001FE6EB623DD66980",
+    "old_account_id": "001A34WFSUYHCRBLFT"
+  }
+}
